@@ -1,7 +1,7 @@
 # Calculate Area of the Shape
 ![surface-area-and-volume-2312247-v5-a5b14f99ba194aafa8c928231f78ee69](https://user-images.githubusercontent.com/85668824/123541875-39b81980-d764-11eb-9b96-f88448fa7bbf.png)
 
-### Problem 1:
+### Problem:
 
 Write a program to calculate area of shapes. Your program should be capable of calculating the area of a square, rectangle, triangle and a circle. The user should be presented with options to select the shape. Based on which shape is chosed by the user, the program should ask for the appropriate input and print the resulting area on the screen.
 
